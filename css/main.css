@@ -1,0 +1,197 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+body{
+    background-color: white;
+}
+
+
+.carousel-inner{
+  max-height: 500px;
+
+}
+
+.d-block{
+background-repeat: no-repeat;
+background-position: center center;
+background-size: cover;
+}
+
+
+.first-row{
+    margin: 0;
+    background-color: white;
+    text-align: center;
+    margin-bottom: 50px;
+   
+
+   
+}
+.container{
+    padding: 10px;
+
+}
+
+.col{
+    width: 23%;
+    margin:0 1%;
+    box-shadow: 0px 0 25px 0 rgb(0,0,0,20%);
+    padding: 15px 30px;
+    word-wrap: normal;
+    word-wrap: break-word;
+    border-radius: 5px;
+}
+
+
+
+.carouse90{
+    position: absolute;
+    bottom: 20.25rem;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    text-align: center;
+    padding-left: 150px;
+
+}
+
+
+.mybutton{
+    margin: -20pc 150px;
+    position: absolute;
+}
+
+
+.carousel-item img{
+  height: auto;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+    
+}
+
+
+.marg{
+    width: 83.5%;
+    margin: auto;
+}
+
+.navbar-collapse{
+     flex-grow: 0;
+  /* flex-basis: 100%!important; */
+     font-size: 20px;
+}
+
+.navbar-light .navbar-brand {
+    color: rgba(0,0,0,.9);
+    color: #dc3545;
+    font-size: 24px;
+}
+
+.col p{
+  display: block;
+  text-overflow: ellipsis;
+  word-wrap: break-word;
+  overflow: hidden;
+  max-height: 7em;
+  line-height: 1.8em;
+
+}
+
+
+
+.read-more.content-read-more, .more-link, .read-more {
+	display: block;
+	margin: auto;
+	text-align: center;
+	text-transform: uppercase;
+	color: #fff;
+	text-decoration: none;
+	font-weight: bold;
+	transition: 0.5s max-width ease;
+	background-color: #dc3545;
+	max-width: 59%;
+	border-radius: 0px 0px 20px 20px ;
+}
+.read-more.content-read-more:hover, .more-link:hover, .read-more:hover {
+	color: #000;
+	max-width: 69%;
+}
+
+
+
+
+
+#navbarNav a:hover{
+    color: #dc3545;
+
+}
+
+.row{
+    padding-top: 30px;
+}
+
+.col:hover{
+    box-shadow: 0px 0 25px 0 rgb(0,0,0,35%); 
+
+    transition: 0.20s box-shadow ease-in-out;
+
+}
+
+.size{
+    width: 400px;
+    height: 180px;
+}
+
+
+footer p{
+    padding: 5px;
+    margin-bottom: 0;
+    font-size: 18px;
+}
+
+footer a{
+    text-decoration: none;
+    color: #dc3545;
+    
+    
+}
+
+footer{
+    box-shadow: 0px 0 25px 0 rgb(0,0,0,20%);
+    padding: 10px;
+    
+}
+
+
+
+#me{
+    float: right;
+    padding: 30px;
+}
+
+.size2{
+    width:540px!important;
+}
+
+.p-6{
+    padding-top: 6rem!important;
+    padding-bottom: 6rem!important;
+}
+
+
+
+#yoga{
+    height: 350px;
+}
+
+.navbar{
+    padding-top: 0.0rem; 
+    padding-bottom: 0.0rem;
+}
